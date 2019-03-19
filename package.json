@@ -23,7 +23,6 @@
   "devDependencies": {
     "autod": "*",
     "contributors": "*",
-    "should": "3.3.1",
     "istanbul": "*",
     "cov": "*",
     "jshint": "*",
@@ -32,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:fool2fish/velocity.git"
+    "url": "git@github.com:likoshow/velocity.git"
   },
   "bin": {
     "velocity": "./bin/velocity"
