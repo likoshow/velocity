@@ -1,15 +1,15 @@
 {
-  "name": "velocity",
+  "name": "@likou/velocity",
   "version": "0.7.3",
   "description": "A node velocity template engine.",
-  "homepage": "https://github.com/fool2fish/velocity",
+  "homepage": "https://github.com/likoshow/velocity",
   "keywords": [
     "node",
     "velocity",
     "template",
     "engine"
   ],
-  "author": "fool2fish <fool2fish@gmail.com>",
+  "author": "likou <likoushow@gmail.com>",
   "scripts": {
     "test": "mocha -R spec -t 15000 -r should test/*.test.js",
     "test-cov": "istanbul cover node_modules/.bin/_mocha -- -t 15000 -r should test/*.test.js"
